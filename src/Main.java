@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         Felinos cat = new Felinos();
+        System.out.println("<<--- F-E-L-I-N-O-S --->>");
         System.out.println("Peso: "+cat.getPesofe()+" Kg");
         System.out.println("Tipo de raza: "+cat.getRazafe());
         System.out.println("Tamanio: "+cat.getTamanife()+" cm");
